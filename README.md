@@ -7,7 +7,7 @@
          alt="linkedin" height="30" width="40"/>
   </a>
   <a href="https://instagram.com/uami.dev" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+    <img src="https://github.com/user-attachments/assets/59ce6f06-4060-4f33-9026-14048275199b"
          alt="instagram" height="30" width="40"/>
   </a>
 </p>

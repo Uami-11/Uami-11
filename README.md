@@ -13,7 +13,7 @@
        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
        alt="uami.dev"
        height="30" width="40"
-       style="vertical-align: 70px;" />
+       style="vertical-align: 70px" />
 </a>
 
 </p>

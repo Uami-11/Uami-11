@@ -18,13 +18,6 @@
 
 <h3 align="left">🎮 Game Development</h3>
 
-<p align="left">
-  <b>Check out my games:</b>
-  <a href="https://uami.itch.io" target="_blank" rel="noreferrer">
-    <img src="https://static.wikia.nocookie.net/logopedia/images/0/01/Itch_io.svg/revision/latest?cb=20220421190013"
-         alt="Itch.io" height="40"/>
-  </a>
-</p>
 
 <p align="left">
   <!-- C# + Godot + Unity -->

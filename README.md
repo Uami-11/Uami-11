@@ -103,6 +103,8 @@
   </a>
   <br>
   <b>Earned an A* in Computer Science A-Level (Python-focused).</b>
+         <b>Got a 98 on my C Programming Final Project in University</b>
+         <b>Got a 97 overall for my Database Design and Analytics course in University using MySQL</b>
 </p>
 
 <h4 align="left">Basic with:</h4>

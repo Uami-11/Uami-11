@@ -1,4 +1,4 @@
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/e371902f-8914-40b7-8ec1-652331d63c48" /><h3 align="center">I am a person who loves creating fun games and solving problems</h3>
+<h3 align="center">I am a person who loves creating fun games and solving problems</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -26,7 +26,7 @@
 <p align="left">
   <!-- GameMaker -->
   <img src="https://gamemaker.io/next/images/icons/safari-pinned-tab.svg" alt="GameMaker" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Gamemaker_language.png" alt="GameMaker Language" width="64" height="64"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Gamemaker_language.png" alt="GameMaker Language" width="40" height="40"/>
   <br>
   <b>Experienced with GameMaker and GML.</b>
 </p>
@@ -36,7 +36,7 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   </a>
-  <img src="https://user-images.githubusercontent.com/46412508/170405943-e75458ec-6cb4-462e-91ba-43c861a3d6cf.png" alt="Pygame" width="30" height="30"/>
+  <img src="https://user-images.githubusercontent.com/46412508/170405943-e75458ec-6cb4-462e-91ba-43c861a3d6cf.png" alt="Pygame" width="40" height="40"/>
   <br>
   <b>Experienced with Python and Pygame for game development.</b>
 </p>

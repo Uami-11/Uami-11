@@ -7,8 +7,8 @@
          alt="linkedin" height="30" width="40"/>
   </a>
   <a href="https://instagram.com/uami.dev" target="blank">
-    <img src="https://github.com/user-attachments/assets/59ce6f06-4060-4f33-9026-14048275199b"
-         alt="instagram" height="30" width="40"/>
+    <img src="[https://github.com/user-attachments/assets/59ce6f06-4060-4f33-9026-14048275199b](https://static.cdninstagram.com/rsrc.php/v4/yI/r/VsNE-OHk_8a.png)"
+         alt="instagram" height="40" width="40"/>
   </a>
 </p>
 

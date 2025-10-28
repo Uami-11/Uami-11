@@ -1,5 +1,6 @@
 <h3 align="center">I am a person who loves creating fun games and solving problems</h3>
-<h2 align="center">🐾 Check out my games on <a href="https://uami.itch.io/">itch.io</a></h2>
+<h2 align="center">Check out my games on <a href="https://uami.itch.io/">    <img src="https://static.wikia.nocookie.net/logopedia/images/0/01/Itch_io.svg/revision/latest?cb=20220421190013"
+         alt="Itch.io" height="40"/></a></h2>
 
 <h3 align="left">Connect with me:</h3> 
 <p align="left" style="display: flex; align-items: center; gap: 6px;">

@@ -107,6 +107,10 @@
 
 <h4 align="left">Basic with:</h4>
 <p align="left">
+           <a href="https://github.com/Uami-11/2d-rpg-practice" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
+         alt="C#" width="40" height="40"/>
+  </a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
          alt="HTML5" width="40" height="40"/>
@@ -121,10 +125,7 @@
   </a>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/947px-Lua-Logo.svg.png"
        alt="Lua" width="40" height="40"/>
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
-         alt="C#" width="40" height="40"/>
-  </a>
+
 </p>
 
 ---

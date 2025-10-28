@@ -81,9 +81,9 @@
 
 ---
 
-<h3 align="left">🧠 General Skills</h3>
+<h3 align="left">🎪 General Skills</h3>
 
-<h4 align="left">Good with:</h4>
+<h4 align="left">🕶️ Good with:</h4>
 <p align="left">
   <a href="https://github.com/Uami-11/Thumble" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
@@ -107,7 +107,7 @@
          <b>Got a 97 overall for my Database Design and Analytics course in University using MySQL</b>
 </p>
 
-<h4 align="left">Basic with:</h4>
+<h4 align="left">🐾 Basic with:</h4>
 <p align="left">
            <a href="https://github.com/Uami-11/2d-rpg-practice" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"

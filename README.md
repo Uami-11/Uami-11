@@ -102,8 +102,8 @@
          alt="MySQL" width="40" height="40"/>
   </a>
   <br>
-  <b>Earned an A* in Computer Science A-Level (Python-focused).</b>
-         <b>Got a 98 on my C Programming Final Project in University</b>
+  <b>Earned an A* in Computer Science A-Level (Python-focused).</b><br>
+         <b>Got a 98 on my C Programming Final Project in University</b><br>
          <b>Got a 97 overall for my Database Design and Analytics course in University using MySQL</b>
 </p>
 

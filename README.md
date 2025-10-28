@@ -6,7 +6,7 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
          alt="linkedin" height="30" width="40"/>
   </a>
-<a href="https://instagram.com/uami.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="uami.dev" height="35" width="40" /></a>
+<a href="https://instagram.com/uami.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="uami.dev" height="31" width="40" /></a>
 </p>
 
 <h3 align="left">🎮 Game Development</h3>

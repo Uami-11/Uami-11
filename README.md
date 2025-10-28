@@ -132,4 +132,4 @@
 
 ---
 
-<h3 align="center">I Always be learning 😹</h3>
+<h3 align="center">I always be learning 😹</h3>

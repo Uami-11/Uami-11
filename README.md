@@ -43,7 +43,7 @@
     <img src="https://gamemaker.io/next/images/icons/safari-pinned-tab.svg"
          alt="GameMaker" width="40" height="40"/>
   </a>
-  <a href="https://github.com/Uami-11/DEATH-IS-AN-OPPORTUNITY" target="_blank" rel="noreferrer">
+  <a href="https://github.com/Uami-11/coding-game-ide" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Gamemaker_language.png"
          alt="GameMaker Language" width="40" height="40"/>
   </a>

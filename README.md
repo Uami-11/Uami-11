@@ -1,4 +1,4 @@
-<h3 align="center">I am a person who loves creating fun games and solving problems</h3>
+<h3 align="center">Love creating fun games and solving problems</h3>
 <h2 align="center">Check out my games on <a href="https://uami.itch.io/">    <img src="https://static.wikia.nocookie.net/logopedia/images/0/01/Itch_io.svg/revision/latest?cb=20220421190013"
          alt="Itch.io" height="40"/></a></h2>
 

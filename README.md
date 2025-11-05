@@ -27,12 +27,12 @@
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⢿⣿⣦⣀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢈⣛⠿⣿⣦⣀
 ---------------------------------------
-
+<!--
 <h3 align="left">🎮 Game Development</h3>
 
 
 <p align="left">
-  <!-- C# + Godot + Unity -->
+   C# + Godot + Unity 
   <a href="https://github.com/Uami-11/2d-rpg-practice" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
          alt="C#" width="40" height="40"/>
@@ -50,7 +50,7 @@
 </p>
 
 <p align="left">
-  <!-- GameMaker -->
+  <!-- GameMaker --
   <a href="https://github.com/Uami-11/DEATH-IS-AN-OPPORTUNITY" target="_blank" rel="noreferrer">
     <img src="https://gamemaker.io/next/images/icons/safari-pinned-tab.svg"
          alt="GameMaker" width="40" height="40"/>
@@ -64,7 +64,7 @@
 </p>
 
 <p align="left">
-  <!-- Python + Pygame -->
+  <!-- Python + Pygame --
   <a href="https://github.com/Uami-11/Galactic-Cruiser" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
          alt="Python" width="40" height="40"/>
@@ -78,7 +78,7 @@
 </p>
 
 <p align="left">
-  <!-- C++ + Raylib -->
+  <!-- C++ + Raylib --
   <a href="https://github.com/Uami-11/ppFinal" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
          alt="C++" width="40" height="40"/>
@@ -143,5 +143,5 @@
 </p>
 
 ---
-
+-->
 <h3 align="center">I always be learning 😹</h3>

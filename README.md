@@ -36,18 +36,7 @@
 ---------------------------------------
   </pre>
 
-  <div style="
-    display: inline-block;
-    background-color: black;
-    color: white;
-    border: 2px solid white;
-    padding: 8px 20px;
-    font-weight: bold;
-    font-family: monospace;
-    margin-top: -10px;
-  ">
-    The Roaring Knight Appeared
-  </div>
+  <h2 style="margin-top: -10px;">The Roaring Knight Appeared</h4>
   
 </div>
 

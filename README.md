@@ -1,17 +1,24 @@
-<h3 align="center">Game Making</h3>
-<h2 align="center"><a href="https://uami.itch.io/">    <img src="https://static.wikia.nocookie.net/logopedia/images/0/01/Itch_io.svg/revision/latest?cb=20220421190013"
-         alt="Itch.io" height="40"/></a></h2>
+<div align="center">
 
-<h3 align="left">Connect with me:</h3> 
-<p align="left" style="display: flex; align-items: center; gap: 6px;">
-  <a href="https://linkedin.com/in/nirwan-maharjan" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-         alt="nirwan-maharjan" height="30" width="40"/>
-  </a>
+  <h3>Game Making</h3>
 
-</p>
+  <h2>
+    <a href="https://uami.itch.io/">
+      <img src="https://static.wikia.nocookie.net/logopedia/images/0/01/Itch_io.svg/revision/latest?cb=20220421190013"
+           alt="Itch.io" height="40"/>
+    </a>
+  </h2>
 
-------------------------------------------
+  <h3>Connect with me:</h3>
+
+  <p>
+    <a href="https://linkedin.com/in/nirwan-maharjan" target="_blank">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+           alt="nirwan-maharjan" height="30" width="40"/>
+    </a>
+  </p>
+
+  <pre style="text-align: center;">
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⣀⣸⣄⠀⠀⠠⢿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⣦⡏⠈⢀⣴⣄⣁⣽⡷⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
@@ -27,6 +34,10 @@
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⢿⣿⣦⣀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢈⣛⠿⣿⣦⣀
 ---------------------------------------
+  </pre>
+
+</div>
+
 <!--
 <h3 align="left">🎮 Game Development</h3>
 

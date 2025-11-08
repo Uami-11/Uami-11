@@ -162,4 +162,3 @@
 ---
 -->
 <h3 align="center">I always be learning 😹</h3>
-![](https://komarev.com/ghpvc/?username=Uami-11)

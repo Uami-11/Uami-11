@@ -162,4 +162,4 @@
 ---
 -->
 <h3 align="center">I always be learning 😹</h3>
-<a href="https://data.typeracer.com/pit/profile?user=uami&universe=play&ref=badge" target="_top"><img src="https://data.typeracer.com/misc/badge?user=uami" border="0" alt="TypeRacer.com scorecard for user uami"/></a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uami-11&layout=compact&theme=dark" />

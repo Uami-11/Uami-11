@@ -162,6 +162,5 @@
 ---
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uami-11)](https://github.com/uami-11/github-readme-stats)
 
 <h3 align="center">I always be learning 😹</h3>

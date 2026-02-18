@@ -162,8 +162,6 @@
 ---
 -->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=uami-11&show_icons=true&locale=en&layout=compact" alt="uami-11" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=uami-11&show_icons=true&locale=en" alt="uami-11" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uami-11)](https://github.com/uami-11/github-readme-stats)
 
 <h3 align="center">I always be learning 😹</h3>

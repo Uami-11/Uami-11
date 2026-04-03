@@ -1,15 +1,15 @@
+<h1>Nirwan Maharjan: What Does He Know? Does He Know Things?? Let's Find Out!</h1>
+
 <div align="center">
 
-  <h3>Game Making</h3>
 
-  <h2>
+<p>
     <a href="https://uami.itch.io/">
       <img src="https://static.wikia.nocookie.net/logopedia/images/0/01/Itch_io.svg/revision/latest?cb=20220421190013"
            alt="Itch.io" height="40"/>
     </a>
-  </h2>
+  </p>
 
-  <h3>Connect with me:</h3>
 
   <p>
     <a href="https://linkedin.com/in/nirwan-maharjan" target="_blank">
@@ -140,6 +140,3 @@
 
 ---
 -->
-
-
-<h3 align="center">I always be learning 😹</h3>

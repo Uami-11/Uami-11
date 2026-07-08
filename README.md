@@ -2,7 +2,7 @@
 
 <div align="center">
 
-
+<!--
 <p>
     <a href="https://uami.itch.io/">
       <img src="https://static.wikia.nocookie.net/logopedia/images/0/01/Itch_io.svg/revision/latest?cb=20220421190013"
@@ -18,7 +18,8 @@
     </a>
   </p>
 
-
+-->
+<img width="468" height="418" alt="gaster" src="https://github.com/user-attachments/assets/b8315ac8-0cdc-4b40-bb84-d924746f469b" />
 
   
 </div>

@@ -1,6 +1,6 @@
-<h1>Nirwan Maharjan: What Does He Know? Does He Know Things?? Let's Find Out!</h1>
 
 <div align="center">
+<h1>Nirwan Maharjan: What Does He Know? Does He Know Things?? Let's Find Out!</h1>
 
 <!--
 <p>
@@ -24,7 +24,7 @@
 <!--
 <img width="468" height="418" alt="gaster" src="https://github.com/user-attachments/assets/b8315ac8-0cdc-4b40-bb84-d924746f469b" />
 -->
-  
+
 </div>
 
 <!--

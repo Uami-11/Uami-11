@@ -19,8 +19,11 @@
   </p>
 
 -->
-<img width="468" height="418" alt="gaster" src="https://github.com/user-attachments/assets/b8315ac8-0cdc-4b40-bb84-d924746f469b" />
 
+<img width="220" height="195" alt="susie" src="https://github.com/user-attachments/assets/d964590c-d22d-4e3b-a01f-c4e68c640eb6" />
+<!--
+<img width="468" height="418" alt="gaster" src="https://github.com/user-attachments/assets/b8315ac8-0cdc-4b40-bb84-d924746f469b" />
+-->
   
 </div>
 

@@ -1,6 +1,6 @@
 
 <div align="center">
-<h1>Nirwan Maharjan: What Does He Know? Does He Know Things?? Let's Find Out!</h1>
+<h1>Nirwan Maharjan!</h1>
 
 <!--
 <p>
